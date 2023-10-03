@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Juan Pablo
-- 👀 I’m interested in be a developer
-- 🌱 I’m currently learning dev Front-end
-- 📫 How to reach me jphferreira@outlook.com
+Bem-vindo ao meu perfil do GitHub 👋
+Meu nome é Juan e estou cursando ciência e tecnologia na UFRN. Estou constantemente aprimorando minhas habilidades em programação e explorando novas linguagens, tenho interesse em projetos relacionados a desenvolvimento web e estou em busca de oportunidades de estágio ou emprego no campo da programação para aplicar meus conhecimentos em situações do mundo real.
+
+## Conecte-se Comigo
+
+- 📧 Email: jphferreira@outlook.com
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-pablo-hortencio-ferreira-aba87524a/
 
 <!---
 juanphf/juanphf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
