@@ -3,7 +3,7 @@ Meu nome é Juan e estou cursando Engenharia da Computação na UFRN. Estou cons
 
 ## Conecte-se Comigo
 
-- 📧 Email: jphferreira@outlook.com
+- 📧 Email: jphferreira07@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/juan-pablo-hortencio-ferreira-aba87524a/
 
 <!---
